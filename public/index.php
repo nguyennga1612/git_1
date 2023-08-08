@@ -8,3 +8,5 @@ include "../app/init.php";
 $app = new App();
 define('ROOT', $path);
 define('ROOT', $path);
+define('ROOT', $path);
+define('ROOT', $path);
