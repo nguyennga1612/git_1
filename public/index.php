@@ -10,3 +10,7 @@ define('ROOT', $path);
 define('ROOT', $path);
 define('ROOT', $path);
 define('ROOT', $path);
+define('ROOT', $path);
+define('ROOT', $path);
+define('ROOT', $path);
+define('ROOT', $path);
